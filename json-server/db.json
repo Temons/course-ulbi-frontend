@@ -2,34 +2,34 @@
   "notifications": [
     {
       "id": "1",
-      "title": "Уведомление 1",
-      "description": "Произошло какое-то событие",
+      "title": "Notification 1",
+      "description": "Some event happened!",
       "userId": "1"
     },
     {
       "id": "2",
-      "title": "Уведомление 2",
-      "description": "Произошло какое-то событие",
+      "title": "Notification 2",
+      "description": "Some event happened!",
       "userId": "1",
       "href": "http://localhost:3000/admin"
     },
     {
       "id": "3",
-      "title": "Уведомление 3",
-      "description": "Произошло какое-то событие",
+      "title": "Notification 3",
+      "description": "Some event happened!",
       "userId": "1",
       "href": "http://localhost:3000/admin"
     },
     {
       "id": "4",
-      "title": "Уведомление 4",
-      "description": "Произошло какое-то событие",
+      "title": "Notification 4",
+      "description": "Some event happened!",
       "userId": "1"
     },
     {
       "id": "5",
-      "title": "Уведомление 1",
-      "description": "Произошло какое-то событие",
+      "title": "Notification 5",
+      "description": "Some event happened!",
       "userId": "2"
     }
   ],
@@ -1287,10 +1287,10 @@
       "id": "1",
       "first": "first",
       "lastname": "asf",
-      "age": 465,
+      "age": 32,
       "currency": "EUR",
       "country": "Portugal",
-      "city": "Moscow",
+      "city": "Lisboa",
       "username": "admin213",
       "avatar": "https://yt3.ggpht.com/ytc/AAUvwngFzM_Rf6MNwOnFcuphoj93k7VFjlIrj-kSMxbh=s900-c-k-c0x00ffffff-no-rj"
     },
